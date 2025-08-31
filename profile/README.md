@@ -1,6 +1,6 @@
 # NETEXPLO at The University of Hong Kong
 
-Welcome to NETEXPLO led by Dr. Chuan Wu in the Department of Computer Science at The University of Hong Kong. Our group is dedicated to advancing the fields of:
+Welcome to NETEXPLO lab led by Dr. Chuan Wu in the Department of Computer Science at The University of Hong Kong. Our group is dedicated to advancing the fields of:
 
 - **Distributed Machine Learning Systems**
 - **Efficient AI**
@@ -30,6 +30,11 @@ Our work aims to develop innovative solutions that enhance the performance, scal
 
 **[EuroSys'25]** HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis. 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/alibaba/hap)
+
+**[EuroSys'18]** Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters.
+
+**[SOSP'19]** A Generic Communication Scheduler for Distributed DNN Training Acceleration.
+
 
 **[INFOCOM'25]** Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing.  
 
