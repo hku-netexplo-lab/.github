@@ -12,8 +12,6 @@ Our work aims to develop innovative solutions that enhance the performance, scal
 
 ## Selected Publications
 
-### System / Network
-
 **[EuroSys'25]** HybridFlow: A Flexible and Efficient RLHF Framework.  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/volcengine/verl)
 
@@ -35,16 +33,9 @@ Our work aims to develop innovative solutions that enhance the performance, scal
 
 **[SOSP'19]** A Generic Communication Scheduler for Distributed DNN Training Acceleration.
 
-
 **[INFOCOM'25]** Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing.  
 
 <!-- **[VLDB'25]** Heta: Distributed Training of Heterogeneous Graph Neural Networks
 *The University of Hong Kong*  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/jasperzhong/heta) -->
-
-### Algo / Co-Design
-**[ICML'25]** A Non-Asymptotic Convergent Analysis for Scored-Based Graph Generative Model via a System of Stochastic Differential Equations. 
-
-
-**[ICML'25]** On the Interplay between Graph Structure and Learning Algorithms in Graph Neural Networks. 
 
