@@ -1,6 +1,6 @@
-# Research Group at The University of Hong Kong
+# NETEXPLO at The University of Hong Kong
 
-Welcome to the GitHub organization for the research group led by Dr. Chuan Wu in the Department of Computer Science at The University of Hong Kong. Our group is dedicated to advancing the fields of:
+Welcome to the GitHub organization for the NETEXPLO led by Dr. Chuan Wu in the Department of Computer Science at The University of Hong Kong. Our group is dedicated to advancing the fields of:
 
 - **Computer Networking**
 - **Cloud Computing Systems**
