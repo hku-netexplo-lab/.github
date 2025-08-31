@@ -22,18 +22,18 @@ Our work aims to develop innovative solutions that enhance the performance, scal
 
 **[SOSP'25]** Robust LLM Training Infrastructure at ByteDance.  
 
-**[EuroSys'25]** DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines. 
+**[INFOCOM'25]** Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing.  
 
-**[EuroSys'25]** CDMPP: A Device-Model Agnostic Framework for Latency Prediction of Tensor Programs. 
+**[EuroSys'24]** DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines. 
 
-**[EuroSys'25]** HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis. 
+**[EuroSys'24]** CDMPP: A Device-Model Agnostic Framework for Latency Prediction of Tensor Programs. 
+
+**[EuroSys'24]** HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis. 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/alibaba/hap)
-
-**[EuroSys'18]** Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters.
 
 **[SOSP'19]** A Generic Communication Scheduler for Distributed DNN Training Acceleration.
 
-**[INFOCOM'25]** Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing.  
+**[EuroSys'18]** Optimus: An Efficient Dynamic Resource Scheduler for Deep Learning Clusters.
 
 <!-- **[VLDB'25]** Heta: Distributed Training of Heterogeneous Graph Neural Networks
 *The University of Hong Kong*  
